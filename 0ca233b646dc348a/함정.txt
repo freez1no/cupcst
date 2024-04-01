@@ -1,0 +1,11 @@
+함정
+
+tag: Enemy 추가
+Layer: Enemy 추가
+0. Grid -> 2D -> 함정을 위한 타일맵 추가 (Spikes)
+1. tilepalette에 함정 추가
+2. tilemap collider 2d추가
+3. 물리 레이어 설정
+- Project Settings -> Physics 2D
+- Layer Collision Matrix
+- 해당하는 부분 체크 해제 (충돌 유무 확인)
